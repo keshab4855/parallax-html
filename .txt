@@ -1,0 +1,6 @@
+1.Create a git repo
+2. open terminal in vs code root folder
+3.make sure the terminal opens in project root folder
+4.git init --this command only run once per project
+5.git status
+6.git add . or (specific file/folder name)
