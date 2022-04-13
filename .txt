@@ -4,3 +4,8 @@
 4.git init --this command only run once per project
 5.git status
 6.git add . or (specific file/folder name)
+7. git commit -m "message"
+8.copy 3 lines of code from github 
+git remote add origin https://github.com/keshab4855/parallax-html.git
+git branch -M main
+git push -u origin main
